@@ -63,4 +63,7 @@ automated-report-generation/
 ├── requirements.txt        # Python package dependencies
 └── README.md               # Project documentation
 
+#output
+sales_report is the output generated after working with the .csv file
+
 
